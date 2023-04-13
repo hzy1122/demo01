@@ -3,5 +3,6 @@ public class HelloWorld{
 		System.out.println("Hello World!");
 		System.out.println("在hot-fix分支上增加的输出语句");
 		System.out.println("在master分支上增加的输出语句");
+		System.out.println("在hot-fix分支上增加的第二条输出语句");
 	}
 }
